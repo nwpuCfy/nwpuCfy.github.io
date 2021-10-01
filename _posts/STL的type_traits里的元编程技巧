@@ -1,4 +1,0 @@
-最近在看type_traits时，发现其中用到了元编程，特意摘出来
-```c++
-#include <bits/stdc++.h>
-```
